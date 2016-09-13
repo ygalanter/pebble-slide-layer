@@ -1,30 +1,29 @@
 {
-    "author": "Yuriy Galanter",
-    "dependencies": {},
-    "files": [
-        "dist.zip"
-    ],
-    "keywords": [
-        "pebble-package"
-    ],
-    "name": "pebble-slide-layer",
-    "pebble": {
-        "messageKeys": [],
-        "projectType": "package",
-        "resources": {
-            "media": []
-        },
-        "sdkVersion": "3",
-        "targetPlatforms": [
-            "aplite",
-            "basalt",
-            "chalk",
-            "diorite",
-            "emery"
-        ],
-        "watchapp": {
-            "watchface": false
-        }
+  "version": "1.1.2",
+  "name": "pebble-slide-layer",
+  "author": "Yuriy Galanter",
+  "files": [
+    "dist.zip"
+  ],
+  "repository": "ygalanter/pebble-slide-layer",
+  "description": "Slide Effects layer for Pebble smartwatch",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "pebble-package"
+  ],
+  "pebble": {
+    "sdkVersion": "3",
+    "resources": {
+      "media": []
     },
-    "version": "1.1.2"
+    "projectType": "package",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite", 
+      "emery"
+    ]
+  }
 }
