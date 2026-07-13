@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "name": "pebble-slide-layer",
   "author": "Yuriy Galanter",
   "files": [
@@ -22,8 +22,10 @@
       "aplite",
       "basalt",
       "chalk",
-      "diorite", 
-      "emery"
+      "diorite",
+      "emery",
+      "flint",
+      "gabbro"
     ]
   }
 }
